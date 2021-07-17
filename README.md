@@ -1,1 +1,1 @@
-# Matrimonial-GUI
+Using Java Netbeans I have created a frontend of a matrimonial GUI. In which a user can register using basic detials like name, gender, age etc. The user's details are added up in the MySql database, where 2 tables are already created. One for male customers and one for female customers. Now a user can search for a perfect match for him or her based on 3 conditions namely profession, caste and age. After getting a list of opposite gender, user can choose any one from the list and can get the contact details of the one. 
